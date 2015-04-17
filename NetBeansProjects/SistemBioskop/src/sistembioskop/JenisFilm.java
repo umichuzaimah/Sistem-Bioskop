@@ -41,7 +41,7 @@ public class JenisFilm {
         return kategoriFilm;
     }
     
-    void setDate(String waktuMulai) {
+    void setWaktuMulai(String waktuMulai) {
         this.waktuMulai = waktuMulai;
     }
     
